@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manikantha You can call me Mani
 - 👀 I’m interested in Creating UI and Development with Security practices
-- 🌱 I’m a Freelancer, Software Engineer ....  List goes on
+- 🌱 I’m a Contractor, Sr. Software Engineer ....  List goes on
 - 📫 How to reach me: Mail me on manikanthapanigrahi@gmail.com
 
 <!---
